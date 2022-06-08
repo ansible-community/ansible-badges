@@ -4,7 +4,7 @@
 
 “Ansible Badges” is a way to recognize our contributors for their contributions to Ansible Community by providing a Digital Credential ([Open Badge Standard](https://support.badgr.com/en/knowledge/what-are-open-badges)).
 
-We use [Badgr](https://info.badgr.com/) to create, award and manage all the credentials and Badgr also makes it easier for the users to showcase these achievements to a broader audience on their social media sites.
+We use [Badgr](https://info.badgr.com/) to create, award and manage all the digital credentials and Badgr also makes it easier for the users to showcase these achievements to a broader audience on their social media sites.
 
 However, Badgr requires the Name and Email ID of a contributor to award badges and you can check this [link](https://support.badgr.com/en/knowledge/manually-awarding-badges-in-badgr) for more details on how Badgr issues the badge.
 
